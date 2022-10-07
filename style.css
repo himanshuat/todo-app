@@ -149,7 +149,6 @@ main > * {
     width: 100%;
     text-align: center;
     font-size: 1.15rem;
-    margin-top: 1.5rem;
     border-top: .25rem solid var(--black);
     display: flex;
     flex-direction: column;
